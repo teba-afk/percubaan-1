@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,101 TV1
+#EXTVLCOPT:network-caching=1000
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
